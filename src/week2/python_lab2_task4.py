@@ -6,7 +6,6 @@ Practice map(), filter() and zip(), and compare them with comprehensions.
 IMPORTANT: map(), filter() and zip() do not return lists. They return
 "lazy" objects (printing one shows something like <map object at 0x...>).
 Wrap the result in list(...) before returning it.
-
 Part A – functional style (use the tool named for each function):
 - item_totals(prices, quantities)   -> list
     Use map() with a lambda to compute price * quantity for each item.

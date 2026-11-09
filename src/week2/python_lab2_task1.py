@@ -4,7 +4,7 @@ Lab 2.1 – Simple Datasets and Aggregates
 Practice lists, dictionaries and tuples by computing simple aggregates.
 
 Write these functions:
-- average(values)               -> float
+- average(values)              -> float
     Average of a list of numbers. Return 0.0 if the list is empty.
 - largest_city(populations)     -> tuple (name, population)
     The city with the LARGEST population.

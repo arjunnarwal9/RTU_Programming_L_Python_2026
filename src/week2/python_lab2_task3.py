@@ -2,7 +2,6 @@
 Lab 2.3 – Operator Frequency Counter
 ------------------------------------
 Practice strings and dictionaries by counting characters.
-
 Write a function `count_operators(expression)` that returns a dictionary
 with how many times each operator character appears in the expression.
 

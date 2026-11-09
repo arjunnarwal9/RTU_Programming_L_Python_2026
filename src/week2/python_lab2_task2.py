@@ -2,7 +2,6 @@
 Lab 2.2 – Comprehensions and Transformations
 --------------------------------------------
 Practice list, set and dictionary comprehensions.
-
 Write these functions. Each one should return a SINGLE comprehension
 (one line after `return`), not a for loop that appends:
 - squares(numbers)      -> list : the square of each number, same order
